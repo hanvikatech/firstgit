@@ -1,2 +1,3 @@
 developer2 feature branch
 second commit
+Code added by developer2 
