@@ -1,3 +1,7 @@
 developer2 feature branch
 second commit
+<<<<<<< HEAD
+Code added by developer2 
+=======
 adding code by local repositry main
+>>>>>>> master
